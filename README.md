@@ -1,6 +1,17 @@
-frontend-nanodegree-arcade-game
-===============================
+# P4-fend-arcade-game
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+## About project
+The 4th Udacity project called 'Classic Arcade Game Clone' where I was given visual assets and a game loop engine; using these tools I had to add a number of entities to the game to recreate the classic arcade game.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+## What did I cover?
+I covered all project [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) requirements.
+- [x] **Player can not move off screen**
+- [x] **Vehicles cross the screen**
+- [x] **Vehicle-player collisions happen logically (not too early or too late)**
+- [x] **Vehicle-player collision resets the game**
+- [x] **Something happens when player wins** - modal window appears with option to restart a game
+- [x] **Game objects (player and vehicles) are implemented using JavaScript object-oriented programming features.**
+- [x] **A `README` file is included detailing all steps required to successfully run the application.**
+
+## How to run a game?
+You can click on `Clone or download` and run a game by opening index.html or you can play game [live](https://adr1ana.github.io/P4-fend-arcade-game/) !
