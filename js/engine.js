@@ -77,6 +77,8 @@ window.onclick = function(event) {
           win.cancelAnimationFrame(stop);
           //modalMessage();
           modal.style.display = "block";
+          var sound = new Audio ('sound/frog_sound.mp3');
+          sound.play();
         }
         else {
           stop = win.requestAnimationFrame(main);
