@@ -9,7 +9,7 @@ var Enemy = function(x,y) {
     this.speed = (Math.floor(Math.random() * 300) + 100);
     // The image/sprite for our enemies, this uses
     // a helper we've provided to easily load images
-    this.sprite = 'images/enemy-bug.png';
+    this.sprite = 'images/fly.png';
 };
 
 // Update the enemy's position, required method for game
@@ -38,7 +38,7 @@ class Hero {
   constructor() {
     this.stepX = 101;
     this.stepY = 83;
-    this.sprite = 'images/char-horn-girl.png';
+    this.sprite = 'images/mr-frog.png';
     this.startX = this.stepX * 2;
     this.startY = (this.stepY * 4) + 55;
     this.x = this.startX;

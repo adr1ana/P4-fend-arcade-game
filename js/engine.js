@@ -202,7 +202,9 @@ window.onclick = function(event) {
         'images/char-cat-girl.png',
         'images/char-horn-girl.png',
         'images/char-pink-girl.png',
-        'images/char-princess-girl.png'
+        'images/char-princess-girl.png',
+        'images/mr-frog.png',
+        'images/fly.png'
     ]);
     Resources.onReady(init);
 
