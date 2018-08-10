@@ -17,13 +17,13 @@ I covered all project [rubric](https://review.udacity.com/#!/projects/2696458597
 You can click on `Clone or download` and run a game by opening index.html or you can play game [live](https://adr1ana.github.io/P4-fend-arcade-game/) !
 
 ## How to play a game?
-- Use arrow keys (up,down,left,right) to move your player.
-- Goal is to reach the water without touching bugs.
+- Use arrow keys (up,down,left,right) to move your frog.
+- Goal is to reach the water without colliding into any one of the fly.
 - When you reach water modal window will appear with option to `PLAY AGAIN`
 
 ## Game behavior
-### Bugs (enemies)
-Bugs are your enemies. They are moving with randomize speed. Once your player collides with an enemy, the game is reset and the player moves back to the start square.
-### Player
-As I mention before, you can move your player with **keyboard arrows only** `UP`,`DOWN`, `LEFT`, `RIGHT`. <br>
-You cannot move your player off game board and to win you have to reach water.
+### Flies (enemies)
+We know frogs love to eat flies, but now flies are your enemies. They are flying with randomize speed. Once your frog collides with an enemy, the game is reset and frog moves back to the start square.
+### Frog (player)
+As I mention before, you can move your frog with **keyboard arrows only** `UP`,`DOWN`, `LEFT`, `RIGHT`. <br>
+You cannot move your frog off game board and to win you have to reach water.
