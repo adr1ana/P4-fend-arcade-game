@@ -26,4 +26,4 @@ You can click on `Clone or download` and run a game by opening index.html or you
 Bugs are your enemies. They are moving with randomize speed. Once your player collides with an enemy, the game is reset and the player moves back to the start square.
 ### Player
 As I mention before, you can move your player with **keyboard arrows only** `UP`,`DOWN`, `LEFT`, `RIGHT`. <br>
-You cannot move your player off game board.
+You cannot move your player off game board and to win you have to reach water.
