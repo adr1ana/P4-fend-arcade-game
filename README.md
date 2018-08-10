@@ -15,3 +15,8 @@ I covered all project [rubric](https://review.udacity.com/#!/projects/2696458597
 
 ## How to run a game?
 You can click on `Clone or download` and run a game by opening index.html or you can play game [live](https://adr1ana.github.io/P4-fend-arcade-game/) !
+
+## How to play a game?
+- Use arrow keys (up,down,left,right) to move your player.
+- Goal is to reach the water without touching bugs.
+- When you reach water modal window will appear with option to ´PLAY AGAIN´
