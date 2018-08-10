@@ -9,7 +9,7 @@ I covered all project [rubric](https://review.udacity.com/#!/projects/2696458597
 - [x] Vehicles cross the screen
 - [x] Vehicle-player collisions happen logically (not too early or too late)
 - [x] Vehicle-player collision resets the game
-- [x] Something happens when player wins - modal window appears with option to restart a game
+- [x] Something happens when player wins - modal window appears with frog sound and option to restart a game
 - [x] Game objects (player and vehicles) are implemented using JavaScript object-oriented programming features.
 - [x] A `README` file is included detailing all steps required to successfully run the application.
 
