@@ -5,13 +5,13 @@ The 4th Udacity project called 'Classic Arcade Game Clone' where I was given vis
 
 ## What did I cover?
 I covered all project [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) requirements.
-- [x] **Player can not move off screen**
-- [x] **Vehicles cross the screen**
-- [x] **Vehicle-player collisions happen logically (not too early or too late)**
-- [x] **Vehicle-player collision resets the game**
-- [x] **Something happens when player wins** - modal window appears with option to restart a game
-- [x] **Game objects (player and vehicles) are implemented using JavaScript object-oriented programming features.**
-- [x] **A `README` file is included detailing all steps required to successfully run the application.**
+- [x] Player can not move off screen
+- [x] Vehicles cross the screen
+- [x] Vehicle-player collisions happen logically (not too early or too late)
+- [x] Vehicle-player collision resets the game
+- [x] Something happens when player wins - modal window appears with option to restart a game
+- [x] Game objects (player and vehicles) are implemented using JavaScript object-oriented programming features.
+- [x] A `README` file is included detailing all steps required to successfully run the application.
 
 ## How to run a game?
 You can click on `Clone or download` and run a game by opening index.html or you can play game [live](https://adr1ana.github.io/P4-fend-arcade-game/) !
